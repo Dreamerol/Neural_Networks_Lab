@@ -13,19 +13,18 @@ the key concepts for gradient descent, backpropagation, optimization functions f
 ## Key Tasks
 
 - 📈 **Neural Network Design with Tensorflow** - used for vector classification/ in which quadrant or octant is located
+
 for two-dimensional case - [Vector Classification Quadrants](https://github.com/Dreamerol/Neural_Networks_Lab/blob/main/NN_vector_classification_2D_quadrants.py)
 
 for three-dimensioanl case -  [Vector Classification Octants](https://github.com/Dreamerol/Neural_Networks_Lab/blob/main/NN_vector_classification_3D_octants.py)
 
 for predicting the value of the sin function - [Predicting the behaviour of sinx](https://github.com/Dreamerol/Neural_Networks_Lab/blob/main/NN_predicting_the_behaviour_sinx_func.py)
 
-- ** Implementing Backpropagation from scratch** - calculating the derivatives and applying gradient descent while traversing the neural network
+- 🧮 **Implementing Backpropagation from scratch** - calculating the derivatives and applying gradient descent while traversing the neural network
+- 🤖 **Model Evaluation with accuracy and loss functions:**
 we have written three tasks -> in each task the form of the input is different, also the architecture of the NN is different for each of them - some of them we have used identitet and sigmoid ->
 using backpropagation for computation of the weights , so to find the best weights for our NN, to minimize loss error - we used Mean Squared Error
 
-
-- 🤖 **Model Evaluation with accuracy and loss functions:**
-  
 [Task_one](https://github.com/Dreamerol/Neural_Networks_Lab/blob/main/backpropagation_task1.py)
 
 [Task_two](https://github.com/Dreamerol/Neural_Networks_Lab/blob/main/backpropagation_task2.py)
