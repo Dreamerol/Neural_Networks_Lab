@@ -15,9 +15,7 @@ the key concepts for gradient descent, backpropagation, optimization functions f
 - 📈 **Neural Network Design with Tensorflow** - used for vector classification/ in which quadrant or octant is located
 
 for two-dimensional case - [Vector Classification Quadrants](https://github.com/Dreamerol/Neural_Networks_Lab/blob/main/NN_vector_classification_2D_quadrants.py)
-
 for three-dimensioanl case -  [Vector Classification Octants](https://github.com/Dreamerol/Neural_Networks_Lab/blob/main/NN_vector_classification_3D_octants.py)
-
 for predicting the value of the sin function - [Predicting the behaviour of sinx](https://github.com/Dreamerol/Neural_Networks_Lab/blob/main/NN_predicting_the_behaviour_sinx_func.py)
 
 - 🧮 **Implementing Backpropagation from scratch** - calculating the derivatives and applying gradient descent while traversing the neural network
