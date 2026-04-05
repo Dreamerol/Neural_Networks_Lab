@@ -1,7 +1,7 @@
 # NEURAL NETWORKS ✨
 *Building Neural Networks*
 
-![Neural Networks]([https://media.istockphoto.com/id/2084953046/photo/neural-network-nodes-deep-learning-artificial-intelligence-machine-learning-model.jpg?s=1024x1024&w=is&k=20&c=Lm-Vnql-9BCi_SXFvJkltXAT_chelzkPOTATdZFhHq4=](https://github.com/Dreamerol/Dreamerol/blob/57256cdf74e94d8afc08a57d630287fa75743da4/!!!_NN_2.jpg))
+![Neural Networks](https://github.com/Dreamerol/Dreamerol/blob/57256cdf74e94d8afc08a57d630287fa75743da4/!!!_NN_2.jpg)
 
 ---
 
