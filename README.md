@@ -3,7 +3,7 @@
 
 ![Neural Networks](https://github.com/Dreamerol/Dreamerol/blob/57256cdf74e94d8afc08a57d630287fa75743da4/!!!_NN_2.jpg)
 
----
+
 
 ## Overview
 **Neural Network Lab** is separated into a few fields of tasks: building neural networks with TensorFlow, implementing a mini version of a neural network from scratch, and applying key concepts such as gradient descent, backpropagation, and optimization functions to find the best **parameters (weights and biases)** for our neural network.
