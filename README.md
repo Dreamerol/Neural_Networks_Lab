@@ -5,6 +5,8 @@
 
 ---
 
+<p align="center">
+  
 ![Beginner](https://img.shields.io/badge/Beginner-%F0%9F%A5%89-brightgreen)
 ![Intermediate](https://img.shields.io/badge/Intermediate-%F0%9F%A5%88-yellow)
 ![Advanced](https://img.shields.io/badge/Advanced-%F0%9F%A5%87-orange)
