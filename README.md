@@ -5,17 +5,6 @@
 
 ---
 
-## 🛠️ Tech Stack / Инструменти
-
-<p align="center">
-🐍 Python &nbsp; | &nbsp; 🔢 NumPy &nbsp; | &nbsp; 📊 Pandas &nbsp; | &nbsp; 📈 Matplotlib/Seaborn<br>
-🤖 TensorFlow/Keras &nbsp; | &nbsp; 🧩 Scikit-learn &nbsp; | &nbsp; 🗄️ SQL/Oracle &nbsp; | &nbsp; 🌐 Git/GitHub<br>
-📓 Jupyter Notebook &nbsp; | &nbsp; 💻 VS Code/PyCharm
-</p>
-
-
----
-
 ![Beginner](https://img.shields.io/badge/Beginner-%F0%9F%A5%89-brightgreen)
 ![Intermediate](https://img.shields.io/badge/Intermediate-%F0%9F%A5%88-yellow)
 ![Advanced](https://img.shields.io/badge/Advanced-%F0%9F%A5%87-orange)
@@ -26,6 +15,18 @@
 ![Innovator](https://img.shields.io/badge/Innovator-%F0%9F%8C%9F-pink)
 ![Engineer](https://img.shields.io/badge/Engineer-%F0%9F%9B%A0-blueviolet)
 ![Accuracy Hero](https://img.shields.io/badge/Accuracy%20Hero-%F0%9F%8E%AF-red)
+
+---
+
+---
+
+## 🛠️ Tech Stack / Инструменти
+
+<p align="left">
+🐍 Python &nbsp; | &nbsp; 🔢 NumPy &nbsp; | &nbsp; 📊 Pandas &nbsp; | &nbsp; 📈 Matplotlib/Seaborn<br>
+🤖 TensorFlow/Keras &nbsp; | &nbsp; 🧩 Scikit-learn &nbsp; | &nbsp; 🗄️ SQL/Oracle &nbsp; | &nbsp; 🌐 Git/GitHub<br>
+📓 Jupyter Notebook &nbsp; | &nbsp; 💻 VS Code/PyCharm
+</p>
 
 ---
 
