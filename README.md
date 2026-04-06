@@ -1,4 +1,4 @@
-<h1 align="center">🧠 NEURAL NETWORKS FOR 3D VECTOR CLASSIFICATION</h1>
+<h1 align="center">🧠 NEURAL NETWORKS</h1>
 ## *Building Neural Networks*
 
 ![Neural Networks](https://github.com/Dreamerol/Dreamerol/blob/57256cdf74e94d8afc08a57d630287fa75743da4/!!!_NN_2.jpg)
