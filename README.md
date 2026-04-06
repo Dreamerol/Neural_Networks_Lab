@@ -69,7 +69,7 @@ Each section teaches **concepts, problem-solving, and visualization**, making ab
 **Badges:**  
 `📊 SIR Modeller` `🌡️ Epidemic Predictor` `📈 Data Visualizer`  
 
-#### 🔹 Mini Example in README
+#### 🔹 Example: SIR Model Predictions
 
 # Placeholder for SIR Model Visualization
 import matplotlib.pyplot as plt
@@ -91,26 +91,4 @@ plt.legend()
 plt.show()
 
 --- 
-
-📊 Example: SIR Model Predictions
-
-# Placeholder for SIR Model Visualization
-import matplotlib.pyplot as plt
-import numpy as np
-
-# Dummy SIR data
-days = np.arange(0, 50)
-infected = np.sin(days/10) * 50 + 50
-recovered = np.cos(days/15) * 30 + 30
-susceptible = 100 - infected - recovered
-
-plt.plot(days, infected, label='Infected 🦠', color='red')
-plt.plot(days, recovered, label='Recovered 💊', color='green')
-plt.plot(days, susceptible, label='Susceptible 🌱', color='blue')
-plt.xlabel("Days")
-plt.ylabel("Population")
-plt.title("SIR Model Simulation")
-plt.legend()
-plt.show()
-
 
