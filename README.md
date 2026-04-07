@@ -30,11 +30,11 @@ Used for vector classification (determining in which quadrant or octant a vector
   [Vector Classification Quadrants](https://github.com/Dreamerol/NEURAL-NETWORKS/blob/main/NN_vector_classification_2D_quadrants.py)
 
 - **3D Case (Octants):**  
-  [Vector Classification Octants](https://github.com/Dreamerol/NEURAL-NETWORKS/blob/main/NN_vector_classification_3D_quadrants.py)
+  [Vector Classification Octants](https://github.com/Dreamerol/NEURAL-NETWORKS/blob/main/NN_vector_classification_3D_octants.py)
 
 #### 🔵 Predicting Function Values
 - **Sin(x) Prediction:**  
-  [Predicting the Behavior of sin(x)](https://github.com/Dreamerol/NEURAL-NETWORKS/blob/main/NN_predicting_the_behaviour_of_sinx_func.py)  
+  [Predicting the Behavior of sin(x)](https://github.com/Dreamerol/NEURAL-NETWORKS/blob/main/NN_predicting_the_behaviour_sinx_func.py)  
 
 This model predicts the value of sin(x) using a neural network trained on sampled points.  
 
