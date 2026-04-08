@@ -86,7 +86,7 @@ predicting the trajectory of SIR model - plotting the results - interesting fact
 
 ---
 
-# 🚀 Neural Network Lab: From Scratch to Smart Predictions
+## 🚀 Neural Network Lab: From Scratch to Smart Predictions
 
 Welcome to **Neural Network Lab**, where math, code, and logic collide to create intelligent systems.  
 This lab is not just coding – it’s understanding **how machines think** and **how neural networks learn from data**.  
