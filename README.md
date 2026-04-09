@@ -294,7 +294,6 @@ Each section teaches **concepts, problem-solving, and visualization**, making ab
 - Learned to **map current values to previous ones**, enabling **time-based predictions**.  
 - Plotted **SIR trajectory** to visualize epidemic evolution.  
 
-**Badges:**     
 
 `📊 SIR Modeller` `🌡️ Epidemic Predictor` `📈 Data Visualizer`  
 
