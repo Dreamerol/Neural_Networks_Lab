@@ -1,8 +1,6 @@
 <h1 align="center">🧠 NEURAL NETWORKS</h1>
 
   
-## *Building Neural Networks*
-
 <h2 align="center" style="font-size:150%;">
   <b><i>Building Neural Networks</i></b>
 </h2>
