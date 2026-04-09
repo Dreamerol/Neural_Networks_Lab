@@ -26,13 +26,16 @@
 <h1 align="left">🧠 Neural Networks — A Journey Into Learning</h1>
 
 <p align="left">
- A portfolio project exploring how neural networks learn — from geometry to dynamic systems.
+  <span style="font-size:20px;">
+    <b><i>A portfolio project exploring how neural networks learn — from geometry to dynamic systems.</i></b>
+  </span>
 </p>
 
 <p align="left">
-Not as a black box. But as a process that unfolds.
+  <span style="font-size:14px;">
+    <i>From structure → to patterns → to learning → to time.</i>
+  </span>
 </p>
-
 ---
 
 <h2 align="left">📖 PROJECT STORY / ИСТОРИЯ НА ПРОЕКТА</h2>
