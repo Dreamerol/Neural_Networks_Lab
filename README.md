@@ -41,6 +41,24 @@
 
 ---
 
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Beginner-%F0%9F%A5%89-brightgreen" alt="Beginner" />
+  <img src="https://img.shields.io/badge/Intermediate-%F0%9F%A5%88-yellow" alt="Intermediate" />
+  <img src="https://img.shields.io/badge/Advanced-%F0%9F%A5%87-orange" alt="Advanced" />
+  <img src="https://img.shields.io/badge/Expert-%F0%9F%92%8E-blue" alt="Expert" />
+  <img src="https://img.shields.io/badge/Fast%20Learner-%E2%9A%A1-lightgrey" alt="Fast Learner" />
+  <img src="https://img.shields.io/badge/Brain%20Master-%F0%9F%A7%A0-purple" alt="Brain Master" />
+  <img src="https://img.shields.io/badge/Data%20Explorer-%F0%9F%94%AC-cyan" alt="Data Explorer" />
+  <img src="https://img.shields.io/badge/Innovator-%F0%9F%8C%9F-pink" alt="Innovator" />
+  <img src="https://img.shields.io/badge/Engineer-%F0%9F%9B%A0-blueviolet" alt="Engineer" />
+  <img src="https://img.shields.io/badge/Accuracy%20Hero-%F0%9F%8E%AF-red" alt="Accuracy Hero" />
+</p>
+
+---
+
+---
+
 <h2 align="left">📖 PROJECT STORY / ИСТОРИЯ НА ПРОЕКТА</h2>
 
 🌐 Neural networks are often presented as tools — fast, efficient, and ready to use.  
