@@ -28,13 +28,13 @@
 <h1 align="CENTER">🧠 Neural Networks — A Journey Into Learning</h1>
 
 <p align="center">
-  <span style="font-size:30px;">
+  <span style="font-size:100px;">
     <b><i>A portfolio project exploring how neural networks learn — from geometry to dynamic systems.</i></b>
   </span>
 </p>
 
 <p align="center">
-  <span style="font-size:30px;">
+  <span style="font-size:100px;">
     <i>From structure → to patterns → to learning → to time.</i>
   </span>
 </p>
