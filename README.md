@@ -59,7 +59,7 @@
 
 ---
 
-<h2 align="left">📖 PROJECT STORY / ИСТОРИЯ НА ПРОЕКТА</h2>
+<h2 align="CENTER">📖 PROJECT STORY / ИСТОРИЯ НА ПРОЕКТА</h2>
 
 🌐 Neural networks are often presented as tools — fast, efficient, and ready to use.  
 But beneath that simplicity lies something far more interesting: a system that learns gradually, through structure, error, and time.
