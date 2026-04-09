@@ -25,7 +25,7 @@
 </p>
 
 ---
-<h1 align="CENTER">🧠 Neural Networks — A Journey Into Learning</h1>
+<h1 align="CENTER">🧠 Neural Networks — How Machines Learn to Think</h1>
 
 <p align="center">
   <span style="font-size:100px;">
