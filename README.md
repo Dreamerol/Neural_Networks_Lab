@@ -20,7 +20,6 @@
 
 ---
 
-<h2>📖 PROJECT STORY / ИСТОРИЯ НА ПРОЕКТА</h2>
 
 <h1 align="center">🧠 Neural Networks — A Journey Into Learning</h1>
 
@@ -34,7 +33,7 @@ Not as a black box. But as a process that unfolds.
 
 ---
 
-<h2 align="center">🌐 PROJECT STORY</h2>
+<h2>📖 PROJECT STORY / ИСТОРИЯ НА ПРОЕКТА</h2>
 
 🌐 Neural networks are often presented as tools — fast, efficient, and ready to use.  
 But beneath that simplicity lies something far more interesting: a system that learns gradually, through structure, error, and time.
