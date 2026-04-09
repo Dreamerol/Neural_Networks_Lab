@@ -26,16 +26,17 @@
 <h1 align="left">🧠 Neural Networks — A Journey Into Learning</h1>
 
 <p align="left">
-  <span style="font-size:20px;">
+  <span style="font-size:30px;">
     <b><i>A portfolio project exploring how neural networks learn — from geometry to dynamic systems.</i></b>
   </span>
 </p>
 
 <p align="left">
-  <span style="font-size:14px;">
+  <span style="font-size:30px;">
     <i>From structure → to patterns → to learning → to time.</i>
   </span>
 </p>
+
 ---
 
 <h2 align="left">📖 PROJECT STORY / ИСТОРИЯ НА ПРОЕКТА</h2>
