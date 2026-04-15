@@ -454,12 +454,9 @@ Each section teaches **concepts, problem-solving, and visualization**, making ab
 
 `📊 SIR Modeller` `🌡️ Epidemic Predictor` `📈 Data Visualizer`  
 
----
 
-<p align="center">
-  🔗 Explore more projects & contact via profile: 
-  <a href="https://github.com/Dreamerol">github.com/Dreamerol</a>
-</p>
+
+
 
 ---
 
