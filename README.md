@@ -7,7 +7,7 @@
 
 
 
-![Neural Networks](https://github.com/Dreamerol/Dreamerol/blob/57256cdf74e94d8afc08a57d630287fa75743da4/!!!_NN_2.jpg)
+![Neural Networks](https://github.com/Dreamerol/Dreamerol/blob/05cc3f0420d36a40d0dd40c86a0298e37817f2e2/NN.webp)
 
 ---
 
