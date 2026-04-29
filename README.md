@@ -504,8 +504,6 @@ Each section teaches **concepts, problem-solving, and visualization**, making ab
 `📊 SIR Modeller` `🌡️ Epidemic Predictor` `📈 Data Visualizer`  
 
 
----
-
 
 <p align="center">
   🔗 Explore more on my GitHub profile: 
