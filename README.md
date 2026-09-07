@@ -1,4 +1,4 @@
-<h1 align="center">NEURAL NETWORKS</h1>
+<h1 align="center">𝗡𝗘𝗨𝗥𝗔𝗟 𝗡𝗘𝗧𝗪𝗢𝗥𝗞𝗦</h1>
 
   
 <h2 align="center" style="font-size:50%;">
